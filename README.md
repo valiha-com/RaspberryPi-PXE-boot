@@ -1,4 +1,4 @@
-# RaspberryPi-pxe-boot
+# RaspberryPi-PXE-boot
 
 
 # References
